@@ -10,8 +10,8 @@
 
 *MENTOR*: SRAVANI 
 
-##This project focuses on building a machine learning model (regression or classification) to predict outcomes based on a given dataset. The objective is to apply data preprocessing, feature selection, model training, and evaluation to derive actionable insights.
+##This project focuses on creating a fully functional interactive dashboard using Tableau, Power BI, or Dash to visualize a dataset and extract actionable insights. The objective is to enhance data interpretation through dynamic visualizations and user-friendly interfaces.
 
-*OUTPUT - 1* : 
-*OUTPUT - 2* :
-*OUTPUT - 3* : 
+*OUTPUT - 1* : ![Image](https://github.com/user-attachments/assets/e66efe27-4572-42c4-91da-111dcdcddd45)
+*OUTPUT - 2* : ![Image](https://github.com/user-attachments/assets/788233a0-3ea9-43f3-a169-1eaf945499d0)
+*OUTPUT - 3* : ![Image](https://github.com/user-attachments/assets/56f9236c-56bc-4402-ad42-4240c6ac11fa)
